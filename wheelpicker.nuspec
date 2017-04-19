@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.WheelPicker</id>
+        <version>1.1.2</version>
+        <description>Xamarin Binding Library - WheelPicker</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - WheelPicker</title>
+        <releaseNotes>WheelPicker v1.1.2</releaseNotes>
+        <summary>Xamarin Binding Library - WheelPicker</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xam-accountkit-android</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, WheelPicker</tags>
+        <dependencies>
+            <!--<dependency id="Xamarin.Android.Support.Design" version="24.2.1" />
+            <dependency id="Xamarin.Android.Support.v4" version="24.2.1" />
+            <dependency id="Xamarin.Android.Support.v7.AppCompat" version="24.2.1" />-->
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.WheelPicker/bin/Release/Naxam.WheelPicker.dll" target="lib/MonoAndroid10/Naxam.WheelPicker.dll" />
+    </files>
+</package>

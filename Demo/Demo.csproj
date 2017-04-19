@@ -77,7 +77,7 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WheelPicker\Naxam.WheelPicker.csproj">
+    <ProjectReference Include="..\Naxam.WheelPicker\Naxam.WheelPicker.csproj">
       <Project>{bfcb7703-c35f-4a65-9895-0e08036a34de}</Project>
       <Name>Naxam.WheelPicker</Name>
     </ProjectReference>
